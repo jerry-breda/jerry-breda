@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @jerry-breda
-- 👀 I’m interested in data analytics, mathmatic, biological and physics applications
-- 🌱 I’m currently learning java, c++, python, sql, and matlab
-- 💞️ I’m looking to collaborate on game mods, bots, small scale project
+# JERRY BREDA JR
+#### Currently attending TSU as a Senior for a Bachelor's in Science in Computer Science, minoring in Mathematics.
+My most used languages are:
 
-<!---
-jerry-breda/jerry-breda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Python (using wxPython, wxGlade, pandas, matplotlib, numpy, and other common modules)
+* C++ (proficient in OOP and Procedural programming paradigms)
+* Matlab (novice)
+* SQL (novice)
+* Java (functional in coding)
+
+Experience include:
+
+* REU(internship) at BRC at Rice University, Center for Theoretical Biological Physics  
+
+I am currently looking for:
+
+* Full-Time Positions,
+* Research Oppurtunities,
+* and Projects
+
+[^note]: If you have any questions, my e-mail is jerry.breda@yahoo.com. Thank you!

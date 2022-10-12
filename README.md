@@ -2,7 +2,7 @@
 #### Currently attending TSU as a Senior for a Bachelor's in Science in Computer Science, minoring in Mathematics.
 My most used languages are:
 
-* Python (using wxPython, wxGlade, pandas, matplotlib, numpy, and other common modules)
+* Python (using pandas, matplotlib, numpy, and other common modules)
 * C++ (proficient in OOP and Procedural programming paradigms)
 * Matlab (novice)
 * SQL (novice)

@@ -2,15 +2,15 @@
 #### Currently attending TSU as a Senior for a Bachelor's in Science in Computer Science, minoring in Mathematics.
 My most used languages are:
 
-* Python (using pandas, matplotlib, numpy, and other common modules)
-* C++ (proficient in OOP and Procedural programming paradigms)
-* Matlab (novice)
-* SQL (novice)
-* Java (functional in coding)
+* Python (using pandas, matplotlib, numpy)
+* C++ (OOP, Procedural programming)
+* Matlab 
+* SQL
+* Java
 
 Experience include:
 
-* REU(internship) at BRC at Rice University, Center for Theoretical Biological Physics  
+* Researcher at BRC at Rice University, Center for Theoretical Biological Physics  
 
 I am currently looking for:
 

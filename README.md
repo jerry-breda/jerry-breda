@@ -3,7 +3,7 @@
 My most used languages are:
 
 * Python (using pandas, matplotlib, numpy)
-* C++ (OOP, Procedural programming)
+* C++ (OOP, Imperative programming)
 * Matlab 
 * SQL
 * Java

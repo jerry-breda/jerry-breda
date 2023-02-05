@@ -1,5 +1,5 @@
 # JERRY BREDA JR
-#### Currently attending TSU as a Senior for a Bachelor's in Science in Computer Science, minoring in Mathematics.
+#### Currently attending TSU as a Senior for a Bachelor of Science in Computer Science.
 My most used languages are:
 
 * Python (using pandas, matplotlib, numpy)

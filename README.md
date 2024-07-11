@@ -1,5 +1,5 @@
 # JERRY BREDA JR
-#### Currently attending TSU as a Senior for a Bachelor of Science in Computer Science.
+#### Currently attending Howard University for a Master's in Physics.
 My most used languages are:
 
 * Python (using pandas, matplotlib, numpy)

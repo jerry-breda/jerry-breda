@@ -1,16 +1,17 @@
 # JERRY BREDA JR
-#### Currently attending Howard University for a Master's in Physics.
 My most used languages are:
 
 * Python (using pandas, matplotlib, numpy)
-* C++ (OOP, Imperative programming)
-* Matlab 
+* C++/C
+* Matlab
+* R 
 * SQL
 * Java
 
 Experience include:
 
-* Researcher at BRC at Rice University, Center for Theoretical Biological Physics  
+* Researcher at BRC at Rice University, Center for Theoretical Biological Physics
+* Nuclear Physics Traineeship at sPHENIX located at Brookhaven National Laboratory  
 
 I am currently looking for:
 
